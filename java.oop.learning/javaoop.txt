@@ -1,0 +1,39 @@
+Gün 1: Sınıf Tanımlama ve Nesne Oluşturma
+Bir sınıf tanımla ve içine özellikler ekle (fields).
+Kurucu metot (constructor) ile nesne oluştur.
+Metotlar (methods) ekleyerek sınıfın davranışlarını tanımla.
+
+Gün 2: Kalıtım (Inheritance) ve Üst Sınıflar
+Bir üst sınıf (superclass) tanımla.
+Alt sınıflar (subclasses) tanımla ve kalıtım kullanarak üst sınıftan özellikleri ve metotları miras al.
+
+Gün 3: Çok Biçimlilik (Polymorphism)
+Metotların aşırı yüklenmesi (method overloading) ve aşırı yazılması (method overriding) kavramlarını öğren.
+Polimorfik davranışları gösteren örnekler yaz.
+
+Gün 4: Soyut Sınıflar ve Arabirimler (Abstract Classes and Interfaces)
+Soyut sınıflar (abstract classes) ve arabirimler (interfaces) tanımla.
+Soyut sınıf ve arabirimlerin kullanım alanlarını ve farklarını anla.
+
+Gün 5: Paketler (Packages) ve Erişim Kontrolü (Access Control)
+Java'da paketlerin tanımlanması ve kullanımı.
+Erişim kontrolü (public, private, protected) ve kapsam alanları (scope) konularını öğren.
+
+Gün 6: Nesne Yönelimli Tasarım Prensipleri
+SOLID prensipleri (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) ve bu prensipleri nasıl uygulayacağını öğren.
+
+Gün 7: Javada Jenerikler (Generics)
+Jenerik sınıflar ve metotlar tanımla.
+Jeneriklerin avantajlarını ve kullanım alanlarını anla.
+
+Gün 8: Exception Handling
+İstisna (exception) kavramını öğren.
+try, catch, finally blokları ile istisnai durumları nasıl yöneteceğini anla.
+
+Gün 9: Java IO ve Dosya İşlemleri
+Java'da giriş/çıkış (input/output) işlemlerini yönet.
+Dosya okuma, yazma ve işleme işlemlerini gerçekleştir.
+
+Gün 10: Java'nın Diğer Gelişmiş Özellikleri
+Lambda ifadeleri ve fonksiyonel arayüzler.
+Java 8 ve sonrasındaki yeni özellikleri keşfet.
